@@ -16,7 +16,7 @@ Consumer is the microservice that creates and stores the consumers processes. Co
 
 ## Architecture
 
-![image](https://drive.google.com/uc?export=view&id=1Pdx8VL3TxtP9cv8Le9inDTJbear6_V1m)
+![image](architecture.jpg)
 
 ## Implementation
 
